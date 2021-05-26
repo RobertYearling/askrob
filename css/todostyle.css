@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  border-bottom: 1px solid whitesmoke;
+  color: whitesmoke;
+  list-style-type: none;
+  padding: 7px;
+}
+
+.container-fluid {
+  background-color: darkslategrey;
+  height: 812px;
+}
+
+.header{
+  color: whitesmoke;
+  padding: 30px;
+}
+
+.form {
+  border: 1px solid #38646b;
+  margin: 25px auto;
+  text-align: center;
+  width: 80%;
+}
+
+.todo {
+  padding: 20px;
+}
+
+button {
+  background-color: black;
+  color: whitesmoke;
+  padding: 5px 13px;
+}

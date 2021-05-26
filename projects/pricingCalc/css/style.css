@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 320px;
+}
+
+input {
+    border: 1px black solid;
+    margin: 20px 0;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+    width: 400;
+}
+
+.main {
+    margin: 25px auto;
+    text-align: right;
+    width: fit-content;
+}
+
+.description {
+    font-weight: bold;
+    text-align: right;
+}
+
+.prices {
+    text-align: left;
+}
