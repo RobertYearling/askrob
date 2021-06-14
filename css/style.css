@@ -23,8 +23,9 @@ a,
 a:active,
 a:visited,
 a:link,
-a:hover {
-    color: #1A1B26;
+a:hover:hover {
+    color: #000000;
+    text-decoration: none;
 }
 
 a>i {
@@ -87,6 +88,10 @@ li {
 
 .card-icons {
     margin: auto;
+}
+
+.card-img {
+    max-width: 80%;
 }
 
 .card-title {

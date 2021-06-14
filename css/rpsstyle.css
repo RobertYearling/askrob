@@ -9,6 +9,7 @@ img {
 
 .container-fluid {
 	background-color: #270444;
+	height: 100vh;
 }
 /* Header */
 
