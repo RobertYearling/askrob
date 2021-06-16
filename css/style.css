@@ -45,6 +45,7 @@ li {
 .container-fluid {
     background-color: #1A1B26;
     font-family: sans-serif;
+    margin-top: 45px;
 }
 
 .img {
